@@ -15,7 +15,7 @@ $ npm install @danzzcoding/danzz-api
 
 Via dependencies:
 ```bash
-"@danzzcoding/danzz-api": "github:Danzzxcodes/api",
+"@danzzcoding/danzz-api": "github:Danzzxcodes/api"
 ```
 ## Simple to Use
 
