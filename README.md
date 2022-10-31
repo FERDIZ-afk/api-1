@@ -46,6 +46,23 @@ danzzapi.sosmed.ytplay('until i found you')
 
 | module name | params | thing | response | description |
 | :--- | :---------- | :--- | :--- | :--- |
-| ytaudio | url | youtube url | json | Get Youtube Audio |
-| ytvideo | url | youtube url | json | Get Youtube Video |
+| ytplayaudio | query | youtube query | json | Get youtube play audio |
+| ytplayvideo | query | youtube query | json | Get youtube play video |
+| ytaudio | url | youtube url | json | Get youtube audio |
+| ytvideo | url | youtube url | json | Get youtube video |
+| ttaudio | url | tiktok url | json | Get tiktok audio |
+| ttvideo | url | tiktok url | json | Get tiktok video |
+| fbdl | url | facebook url | json | Get facebook video |
+| twdl | url | twitter url | json | Get twitter video |
+| igstory | username | ig story username | json | Get instagram story |
+| igreels | url | ig reels url | json | Get instagram reels video |
+| igdl | url | instagram url | json | Get instagram video |
+| igimg | url | instagram url | json | Get instagram image |
+| snapinsta | url | snap insta url | json | Get snap insta video |
+| ssstik | url | sss tik url | json | Get sss tiktok video |
+| snaptik | url | snap tik url | json | Get snap tiktok video |
+| sfrom | url | save from url | json | Get save from video |
+| mediafire | url | mediafire url | json | Get mediafire file |
+| zippy | url | zippy url | json | Get zippy file |
+| scloud | url | scloud url | json | Get sound cloud audio |
 </details>
