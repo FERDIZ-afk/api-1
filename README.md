@@ -17,7 +17,7 @@ $ npm install @danzzcoding/danzz-api
 ```
 
 Via dependencies:
-```json
+```bash
 "@danzzcoding/danzz-api": "github:Danzzxcodes/api"
 ```
 ## Simple to Use
@@ -46,6 +46,7 @@ danzzapi.sosmed.ytplay('until i found you')
 
 | module name | params | thing | response | description |
 | :--- | :---------- | :--- | :--- | :--- |
+| ytplay | query | youtube query | json | Get youtube play |
 | ytplayaudio | query | youtube query | json | Get youtube play audio |
 | ytplayvideo | query | youtube query | json | Get youtube play video |
 | ytaudio | url | youtube url | json | Get youtube audio |
