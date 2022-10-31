@@ -1,0 +1,30 @@
+{
+  "name": "@danzzcoding/danzz-api",
+  "version": "1.0.10",
+  "description": "Access Danzz Rest Apis Programmatically",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danzzxcodes/danzzcoding-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rest api",
+    "api",
+    "danzz",
+    "scraper"
+  ],
+  "author": "Danzz Coding // danzzcoding@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Danzzxcodes/danzzcoding-api/issues"
+  },
+  "homepage": "https://github.com/Danzzxcodes/danzzcoding-api#readme",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
