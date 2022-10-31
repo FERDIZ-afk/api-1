@@ -4,6 +4,9 @@ https://github.com/Danzzxcodes/example-api-express
 ### Main website 
 [danzzapi.xyz](https://danzzapi.xyz)
 
+### To get apikey
+[danzzapi.xyz](https://danzzapi.xyz)
+
 #### If you have any suggestions of a website, open an issue!
 
 ## Installation
