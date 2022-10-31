@@ -1,5 +1,5 @@
-# Danzz Api
-Access Danzz Rest Api's Programmatically
+# Example result api express js
+https://github.com/Danzzxcodes/example-api-express
 
 ### Main website 
 [danzzapi.xyz](https://danzzapi.xyz)
