@@ -1,5 +1,5 @@
 # Fitur not working?
-Setting API Key in [here](https://github.com/danzzcoding/api/edit/master/src/media.js)
+Setting API Key in [here](https://github.com/danzzcoding/api/edit/master/set.js)
 
 ## Example API using expressjs
 https://github.com/danzzcoding/example-scraper-api-express
