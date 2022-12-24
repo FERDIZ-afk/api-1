@@ -1,8 +1,8 @@
-# Example result api express js
-https://github.com/Danzzxcodes/example-api-express
+# Example API using expressjs
+https://github.com/danzzcoding/example-scraper-api-express
 
 ### Main website 
-[danzzapi.xyz](https://danzzapi.xyz)
+[danzzcoding.my.id](https://danzzcoding.my.id)
 
 ### To get apikey
 [danzzapi.xyz](https://danzzapi.xyz)
@@ -13,17 +13,17 @@ https://github.com/Danzzxcodes/example-api-express
 
 Via npm:
 ```bash
-$ npm install @danzzcoding/danzz-api
+$ npm install @danzzcoding/api
 ```
 
-Via dependencies:
+Via github:
 ```bash
-"@danzzcoding/danzz-api": "github:Danzzxcodes/api"
+"@danzzcoding/api": "github:danzzcoding/api"
 ```
 ## Simple to Use
 
 ```js
-const danzzapi = require('@danzzcoding/danzz-api');
+const danzzapi = require('@danzzcoding/api');
 
 /*
 danzzapi.type.module-name(params)
