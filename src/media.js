@@ -1,9 +1,9 @@
 require('../set.js')
 const fetch = require('node-fetch')
-const baseURI = ${baseURL}
-const apikey = ${freeKEY}
-const apikeyprem = ${premKEY}
-const apikeyvip = ${vipKEY}
+const baseURI = `${baseURL}`
+const apikey = `${freeKEY}`
+const apikeyprem = `${premKEY}`
+const apikeyvip = `${vipKEY}`
 
 module.exports.ytplay = function ytplay(query) {
 	return new Promise((resolve, reject) => {
