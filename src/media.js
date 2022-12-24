@@ -1,8 +1,9 @@
+require('../set.js')
 const fetch = require('node-fetch')
-const baseURI = 'https://danzzapi.xyz'
-const apikey = 'danzz' // Get in https://danzzapi.xyz
-const apikeyprem = 'YOUR_KEY_PREM' // Get in https://danzzapi.xyz
-const apikeyvip = 'YOUR_KEY_VIP' // Get in https://danzzapi.xyz
+const baseURI = ${baseURL}
+const apikey = ${freeKEY}
+const apikeyprem = ${premKEY}
+const apikeyvip = ${vipKEY}
 
 module.exports.ytplay = function ytplay(query) {
 	return new Promise((resolve, reject) => {
