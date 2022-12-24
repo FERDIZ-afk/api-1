@@ -1,8 +1,8 @@
 const fetch = require('node-fetch')
 const baseURI = 'https://danzzapi.xyz'
 const apikey = 'danzz' // Get in https://danzzapi.xyz
-const apikeyprem = 'danzzprem' // Get in https://danzzapi.xyz
-const apikeyvip = 'danzzvip' // Get in https://danzzapi.xyz
+const apikeyprem = 'YOUR_KEY_PREM' // Get in https://danzzapi.xyz
+const apikeyvip = 'YOUR_KEY_VIP' // Get in https://danzzapi.xyz
 
 module.exports.ytplay = function ytplay(query) {
 	return new Promise((resolve, reject) => {
