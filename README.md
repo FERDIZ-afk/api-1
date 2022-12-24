@@ -1,4 +1,7 @@
-# Example API using expressjs
+# Fitur not working?
+Setting API Key in [here](https://github.com/danzzcoding/api/edit/master/src/media.js)
+
+## Example API using expressjs
 https://github.com/danzzcoding/example-scraper-api-express
 
 ### Main website 
@@ -6,8 +9,6 @@ https://github.com/danzzcoding/example-scraper-api-express
 
 ### To get apikey
 [danzzapi.xyz](https://danzzapi.xyz)
-
-#### If you have any suggestions of a website, open an issue!
 
 ## Installation
 
